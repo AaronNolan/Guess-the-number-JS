@@ -11,4 +11,4 @@ This project is a website comprising of 4 main components:
 * score -> see the number of attempts remianing for the user
 * message -> gives the user clues to the number and if they have lost or won
 
-The html and css was takn directly from the course
+<b> The html and css was taken directly from the course. </b>
